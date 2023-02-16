@@ -1,5 +1,6 @@
 const Header = () => {
     return (
+       
         <div className="Header">
             <div className="headerText"> Only you</div>
             <button className="stdButton">Share</button>

@@ -10,6 +10,6 @@ const MenuBar = () => {
     <div className="menuItem"> 16 </div>
     
   </div>);
-}
+} 
 
 export default MenuBar;
